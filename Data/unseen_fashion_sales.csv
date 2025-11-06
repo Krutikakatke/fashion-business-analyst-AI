@@ -1,0 +1,6 @@
+ProductCategory,Material,Brand,UnitCost,UnitPrice,Discount,UnitsSold,Region,StoreType,Season,CustomerRating,ProfitMargin,Revenue,IsTopSeller
+Top,Cotton,H&M,1850,7999,0.05,250,South,Online,Winter,4.2,4.2,1999750,Yes
+Kurti,Silk,FabIndia,3200,13500,0.1,180,West,Offline,Summer,4.5,5.1,2430000,Yes
+Saree,Georgette,GlobalDesi,4120,18200,0.15,90,North,Online,Spring,3.9,3.8,1638000,No
+Lehenga,Linen,Zara,2780,15500,0.2,310,East,Offline,Autumn,4.8,6.0,4805000,Yes
+Dress,Chiffon,AllenSolly,1990,8700,0.25,220,North,Online,Summer,4.0,4.5,1914000,No
